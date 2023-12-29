@@ -1,3 +1,3 @@
 # rhythm-patel.github.io
 
-This redirects to rhythm-patel.github.io/me
+This makes the link redirect to [rhythm-patel.github.io/me](https://rhythm-patel.github.io/me/)
